@@ -1,0 +1,7 @@
+{
+    "name": "help/laundry",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.57"
+    }
+}
